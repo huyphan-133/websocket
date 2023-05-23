@@ -1,0 +1,12 @@
+# Basic Socket.io Demo
+
+This project use socket.io library to make a simple client/server socket project
+
+# Run it
+```
+cd server
+npm install
+node .
+```
+
+Open the `app/index.html` in multiple and enjoy it hehe
